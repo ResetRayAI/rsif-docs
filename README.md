@@ -79,8 +79,19 @@ They are not production medical workflows.
 
 ---
 
+# Related Semantic Projects
+
+- rsif-specification
+- rsif-vocabulary
+- rsif-examples
+- imaging-semantics
+- dicom-anonymization-notes
+
+These repositories describe public semantic concepts related to AI-readable quantitative imaging workflows.
+
+---
+
 # Links
 
-RU: https://resetray.ru
-
+RU: https://resetray.ru  
 COM: https://resetray.com
