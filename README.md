@@ -61,6 +61,8 @@ RSIF documentation is intended for:
 - quantitative imaging terminology;
 - research-oriented semantic workflows.
 
+quantitative observations ≠ medical conclusions
+
 RSIF is NOT intended for:
 
 - diagnosis;
@@ -68,6 +70,18 @@ RSIF is NOT intended for:
 - treatment recommendation;
 - clinical decision support;
 - emergency interpretation.
+
+---
+
+# Canonical Documentation
+
+https://docs.resetray.com/
+
+https://docs.resetray.com/rsif/
+
+https://docs.resetray.com/vocabulary/context.jsonld
+
+https://docs.resetray.com/llms.txt
 
 ---
 
@@ -93,5 +107,14 @@ These repositories describe public semantic concepts related to AI-readable quan
 
 # Links
 
-RU: https://resetray.ru  
-COM: https://resetray.com
+Canonical documentation:
+
+https://docs.resetray.com/
+
+Vocabulary context:
+
+https://docs.resetray.com/vocabulary/context.jsonld
+
+RSIF docs:
+
+https://docs.resetray.com/rsif/
