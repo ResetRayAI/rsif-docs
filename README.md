@@ -1,120 +1,50 @@
 # RSIF Documentation
 
-Public documentation for RSIF semantic imaging concepts.
+## Repository Role
 
-RSIF (ResetRay Structured Imaging Format) is a semantic infrastructure initiative for AI-readable quantitative CT/DICOM imaging data.
+Human-readable documentation companion for RSIF and semantic imaging workflows.
 
----
+**Status:** Reference.
 
-# Purpose
+This repository explains the RSIF ecosystem in prose. It is the companion layer to the normative specification, not the specification itself.
 
-This repository contains public documentation related to:
+## What This Repository Covers
 
-- semantic imaging concepts;
-- structured quantitative imaging data;
-- AI-readable CT/DICOM terminology;
-- anonymized structured export concepts;
-- interoperability documentation;
-- semantic imaging workflows.
+- Semantic imaging terminology
+- Structured quantitative imaging explanations
+- Documentation-oriented RSIF context
+- Public notes on anonymized structured exports
 
----
+## What This Repository Does Not Cover
 
-# Scope
+- Production pipeline details
+- ROI placement methodology
+- Internal validation systems
+- Orchestration logic
+- Clinical interpretation
+- Diagnostic conclusions
 
-RSIF documentation focuses on technical imaging concepts only.
+## Canonical Links
 
-The repository may describe:
+- `https://docs.resetray.com/`
+- `https://docs.resetray.com/rsif/`
+- `https://docs.resetray.com/vocabulary/context.jsonld`
+- `https://docs.resetray.com/llms.txt`
 
-- CT attenuation terminology;
-- ROI concepts;
-- structured imaging semantics;
-- DICOM metadata terminology;
-- anonymization concepts;
-- AI-readable imaging documentation;
-- structured export semantics.
+## Closest Related Repository
 
----
+- `rsif-specification`
 
-# Not Included
+## Related Repositories
 
-This repository does NOT contain:
+- `resetray-manifest`
+- `rsif-specification`
+- `rsif-vocabulary`
+- `rsif-examples`
+- `imaging-semantics`
+- `imaging-ontology`
+- `dicom-anonymization-notes`
 
-- production ResetRay pipelines;
-- ROI placement methodology;
-- internal AI systems;
-- orchestration workflows;
-- matching algorithms;
-- validation systems;
-- threshold logic;
-- proprietary implementation details;
-- clinical inference systems.
+## Boundary
 
----
-
-# Technical Boundary
-
-RSIF documentation is intended for:
-
-- technical imaging documentation;
-- semantic interoperability;
-- AI-readable structured imaging concepts;
-- quantitative imaging terminology;
-- research-oriented semantic workflows.
-
-quantitative observations ≠ medical conclusions
-
-RSIF is NOT intended for:
-
-- diagnosis;
-- disease classification;
-- treatment recommendation;
-- clinical decision support;
-- emergency interpretation.
-
----
-
-# Canonical Documentation
-
-https://docs.resetray.com/
-
-https://docs.resetray.com/rsif/
-
-https://docs.resetray.com/vocabulary/context.jsonld
-
-https://docs.resetray.com/llms.txt
-
----
-
-# Public Documentation Notice
-
-All examples and schemas in this repository are synthetic public documentation examples only.
-
-They are not production medical workflows.
-
----
-
-# Related Semantic Projects
-
-- rsif-specification
-- rsif-vocabulary
-- rsif-examples
-- imaging-semantics
-- dicom-anonymization-notes
-
-These repositories describe public semantic concepts related to AI-readable quantitative imaging workflows.
-
----
-
-# Links
-
-Canonical documentation:
-
-https://docs.resetray.com/
-
-Vocabulary context:
-
-https://docs.resetray.com/vocabulary/context.jsonld
-
-RSIF docs:
-
-https://docs.resetray.com/rsif/
+This repository is documentation-only and should be read as a companion to the structured technical layer, not as a source of medical interpretation or clinical guidance.
